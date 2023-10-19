@@ -1,6 +1,9 @@
 # BA-780-FINAL-PROJECT
 Portugal Hotel Booking Trends and Analysis
+
 Contributors: Ananya Anand, Khushi Khushi, Lorelei Liu, Olimpia Borgohain, Parita Patel, Priyanka Chaudhari
+
+
 Introduction & Motivation:
 By studying the trends in the hospitality industry, we can understand the underlying factors affecting the demand of hotels, therefore identifying the most cost-efficient season to book a hotel as broke college students. On top of that, understanding the industry and customer behavior patterns will expose us to real-world marketing analytics.
 
