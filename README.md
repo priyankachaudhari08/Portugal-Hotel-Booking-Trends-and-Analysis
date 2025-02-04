@@ -1,5 +1,4 @@
-# BA-780-FINAL-PROJECT
-Portugal Hotel Booking Trends and Analysis
+# Portugal Hotel Booking Trends and Analysis
 
 Contributors: Ananya Anand, Khushi Khushi, Lorelei Liu, Olimpia Borgohain, Parita Patel, Priyanka Chaudhari
 
